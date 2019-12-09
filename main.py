@@ -36,7 +36,7 @@ def format_dict_artist(artist):
         return False
     return artist
 
-dir = "C://Users//sim03.000//Downloads//gpl//Takeout//Google Play Music//Tracks"
+dir = "<your_directory_here>/Google Play Music/Tracks"
 
 os.chdir(dir)
 files = []
